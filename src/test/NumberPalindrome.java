@@ -17,7 +17,7 @@ public class NumberPalindrome {
 		
 		else 
 			System.out.println("not palindrome");
-		System.out.println("code is ok");
+		System.out.println("code is not ok");
 	}
 
 }
